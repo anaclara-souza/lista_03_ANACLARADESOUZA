@@ -25,3 +25,4 @@ try:
     print("Lutador: {}\nCategoria: {}".format(nome, categoria))
 except:
     print("Dado inválido! O peso deve ser um número real.")
+print("Ana Clara De Souza")

@@ -10,3 +10,5 @@ else:
     preco_venda = preco_custo * 1.35 
 
 print("Preço de venda do produto: R${:.2f}".format(preco_venda))
+
+print("Ana Clara De Souza")

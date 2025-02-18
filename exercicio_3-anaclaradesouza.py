@@ -8,5 +8,5 @@ if parcela < 0.08 * salario:
     print("Empréstimo concedido")
 else:
     print("Empréstimo negado")
-
+print("Ana Clara De Souza")
 

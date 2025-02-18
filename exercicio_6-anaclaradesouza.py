@@ -13,3 +13,5 @@ if qatd_elei >= 200000:
         print("Não haverá segundo turno.")
 else:
     print("O município não tem segundo turno.")
+
+print("Ana Clara De Souza")
